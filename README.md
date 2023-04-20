@@ -8,7 +8,7 @@ class SoftwareEngineer:
 
 def __init__(self):
     self.name = "Askarov Dauren"
-    self.role = "Software Engineer"
+    self.role = "Python backend developer"
     self.language_spoken = ["en_US", "kk_KZ", "ru_RU", "tr_TR"]
     self.crypto_mining_experience = True
     self.logistics_experience = {

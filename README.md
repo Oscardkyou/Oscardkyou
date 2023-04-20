@@ -4,7 +4,7 @@
   <h1 style="font-size: 36px;">Hello! 👋, I'm a beginner developer⚙️!</h1>
     
   ```python
-class SoftwareEngineer:
+class Python_backend_developer:
 
 def __init__(self):
     self.name = "Askarov Dauren"
@@ -24,7 +24,7 @@ I hope some of my work will seem interesting to you.
 Just keep in mind that I am a novice developer :).""")
 
 
-me = SoftwareEngineer()
+me = Python_backend_developer()
 me.say_hi()
 ```
 

@@ -3,9 +3,7 @@
 </div>
   <h1 style="font-size: 36px;">Hello! 👋, I'm a beginner developer⚙️!</h1>
     
-  
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+ 
   ## 🔧 Technologies & Tools
   <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40"/>&nbsp;
@@ -21,8 +19,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
       
+      
 </div>  
  <h1 style="font-size: 36px;">🤖 I'm interested in working on projects that use these technologies, and I'm eager to develop my skills further. I'd love to receive feedback from you and have the opportunity to work on a team!</p>
 
 
-
+## You can find me on [![Telegram](https://img.shields.io/badge/Telegram-%40DK_Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)

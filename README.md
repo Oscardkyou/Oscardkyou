@@ -3,7 +3,8 @@
     <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="200" height="200"/>
 </div>
- # About Me 🙋‍♂️
+
+# About Me 🙋‍♂️
 
 I'm a Python Backend Developer with experience in various web development, Telegram bot, and data analysis projects. I enjoy solving interesting and challenging problems through programming and creating useful and beautiful products for users.
 

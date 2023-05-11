@@ -23,7 +23,7 @@ I'm a Python Backend Developer with experience in various web development, Teleg
 
 ## 🔧My skills and technologies 💻
 
-- Python 3  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40"/>&nbsp;
+- Python   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40"/>&nbsp;
 - Django, Flask <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" title="Django" width="40" height="40"/>&nbsp;
 - Django REST Framework <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="40" height="40"/>&nbsp;
 - PostgreSQL, MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>&nbsp;

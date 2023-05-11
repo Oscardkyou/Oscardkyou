@@ -27,7 +27,6 @@ I'm a Python Backend Developer with experience in various web development, Teleg
 - Django, Flask <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" title="Django" width="40" height="40"/>&nbsp;
 - Django REST Framework <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="40" height="40"/>&nbsp;
 - PostgreSQL, MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>&nbsp;
-- Redis, Celery <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="40" height="40"/>&nbsp;
 - Git, GitHub Actions <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
 - Docker, Kubernetes  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
 

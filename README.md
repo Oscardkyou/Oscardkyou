@@ -19,9 +19,6 @@ I'm a Python Backend Developer with experience in various web development, Teleg
 ## Hobbies 🎮
 
 - I'm also passionate about video games, especially RPG and strategy genres, with my favorite games being "StarCraft2" and "HeartStone".
-
-- Linux, Bash, Zsh <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-- Fast API  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI logo" style="max-width:100%; font-size: 24px;"/>
   
   
  <h1 style="font-size: 36px;">🤖 I'm interested in working on projects that use these technologies, and I'm eager to develop my skills further. I'd love to receive feedback from you and have the opportunity to work on a team!</p>

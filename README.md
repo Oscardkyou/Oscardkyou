@@ -2,13 +2,12 @@
     Hello! <span style="color: #FF5733;">👋</span>
 </h1>
 
-<p style="font-size: 24px; color: #4D4D4D; margin-top: 10px;">
-    I'm an <span style="color: #3670A0; font-weight: bold;">aspiring</span> developer <span style="color: #FF5733;">⚙️</span>
+
+
+<p style="font-size: 32px; color: #4D4D4D; margin-top: 20px; font-family: 'Arial', sans-serif; letter-spacing: 0.5px; font-weight: bold;">
+    I'm an <span style="color: #3670A0; font-size: 34px;">aspiring</span> developer <span style="color: #FF5733; font-size: 34px;">⚙️</span>
 </p>
 
-<div align="center" style="background-color: #333; padding: 20px; border-radius: 10px; margin-top: 30px;">
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django Logo" width="300"/>
-</div>
 
 
 

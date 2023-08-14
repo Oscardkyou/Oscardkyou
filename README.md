@@ -1,33 +1,29 @@
-  
-  <h1 style="font-size: 36px;">Hello! 👋, I'm a beginner developer⚙️!</h1>
-    <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="200" height="200"/>
+<h1 style="font-size: 36px; color: #3670A0;">Hello! 👋, I'm an Aspiring Developer⚙️</h1>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="200" height="200"/>
 </div>
 
-# About Me 
+# 🧐 About Me 
+- 🐍 I'm a Python Backend Developer with hands-on experience in various web development projects.
+- 🤖 I've delved deep into Telegram bot creation and have a passion for data analysis.
+- 🔍 I love solving intricate problems through code and creating solutions that add value for users.
 
-I'm a Python Backend Developer with experience in various web development, Telegram bot, and data analysis projects. I enjoy solving interesting and challenging problems through programming and creating useful and beautiful products for users.
+## 💼 Current Work
+- 🔧 I'm primarily engrossed in Python projects that aim to automate logistical processes, streamlining operations and enhancing efficiency.
 
-## Current Work 💼
+## 🚀 Continuous Learning 
+- 📚 I've been diving into Django, FastAPI, and aiogram, intrigued by the vast potential of web 3.0 libraries.
 
-- I'm currently working on my own Python projects to automate logistics processes.
+## 🎮 Hobbies 
+- 🕹️ Video games, especially in the RPG and strategy genres, are my go-to relaxation tools. "StarCraft2" and "HeartStone" rank high on my list of favorites!
 
-## Learning 🚀
+<h1 style="font-size: 26px; color: #3670A0;">🌟 I'm on a quest to collaborate on projects that utilize my current tech stack. Always eager to learn and grow, I'd treasure feedback and the chance to work in synergy with a team!</h1>
 
-- I'm constantly learning new technologies and frameworks, and currently interested in Django, FastAPI, aiogram, web 3.0 libraries.
-
-## Hobbies 🎮
-
-- I'm also passionate about video games, especially RPG and strategy genres, with my favorite games being "StarCraft2" and "HeartStone".
-  
-  
- <h1 style="font-size: 36px;">🤖 I'm interested in working on projects that use these technologies, and I'm eager to develop my skills further. I'd love to receive feedback from you and have the opportunity to work on a team!</p>
-
-
-## You can find me on [![Telegram](https://img.shields.io/badge/Telegram-%40DK_Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)
+## 📫 Connect with Me
+- 🚀 [![Telegram](https://img.shields.io/badge/Telegram-%40DK_Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)
 
 
-# 💻 Tech Stack:
+# 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -71,3 +67,5 @@ I'm a Python Backend Developer with experience in various web development, Teleg
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img alt="github-snake" src="github-user-contribution.svg" />
+
+

@@ -3,9 +3,15 @@
 </h1>
 
 
-<p style="font-size: 32px; color: #4D4D4D; margin-top: 20px; font-family: 'Arial', sans-serif; letter-spacing: 0.5px; font-weight: bold;">
-    I'm a <span style="color: #3670A0; font-size: 34px;">dedicated</span> backend developer <span style="color: #FF5733; font-size: 34px;">🔧</span>, driven by a passion for technology and innovation.
-</p>
+<div align="center">
+    <p style="font-size: 34px; color: #4D4D4D; margin-top: 25px; font-family: 'Helvetica Neue', sans-serif; font-weight: bold; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">
+        I'm a <span style="color: #3670A0; font-size: 36px; background-color: #eef6fc; padding: 5px; border-radius: 5px;">dedicated</span> backend developer <span style="color: #FF5733; font-size: 36px;">🔧</span>
+    </p>
+    <p style="font-size: 28px; color: #6b6b6b; margin-top: 10px; font-family: 'Helvetica Neue', sans-serif; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
+        Driven by a passion for <span style="text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #3670A0;">technology</span> and innovation.
+    </p>
+</div>
+
 
 
 

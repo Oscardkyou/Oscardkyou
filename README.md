@@ -1,17 +1,15 @@
-<h1 style="font-size: 36px; color: #3670A0; font-weight: bold; border-bottom: 3px solid #3670A0; display: inline-block; margin-bottom: 20px;">
-    Welcome! <span style="color: #FF5733;">👋</span>
+<h1 style="font-size: 40px; color: #333; font-weight: 600; text-align: center; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
+    Welcome! <span style="color: #E74C3C;">👋</span>
 </h1>
 
-
 <div align="center">
-    <p style="font-size: 34px; color: #4D4D4D; margin-top: 25px; font-family: 'Helvetica Neue', sans-serif; font-weight: bold; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">
-        I'm a <span style="color: #3670A0; font-size: 36px; background-color: #eef6fc; padding: 5px; border-radius: 5px;">dedicated</span> backend developer <span style="color: #FF5733; font-size: 36px;">🔧</span>
+    <p style="font-size: 36px; color: #555; margin-top: 20px; font-family: 'Helvetica Neue', sans-serif; font-weight: 500;">
+        Backend Developer
     </p>
-    <p style="font-size: 28px; color: #6b6b6b; margin-top: 10px; font-family: 'Helvetica Neue', sans-serif; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
-        Driven by a passion for <span style="text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #3670A0;">technology</span> and innovation.
+    <p style="font-size: 28px; color: #777; margin-top: 10px; font-family: 'Helvetica Neue', sans-serif;">
+        Driven by passion for <span style="font-weight: 600; color: #333;">technology</span> and innovation.
     </p>
 </div>
-
 
 
 
@@ -36,7 +34,8 @@
 - 🚀 [![Telegram](https://img.shields.io/badge/Telegram-%40DK_Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)
 
 
-## 🚀 **Tech Stack**
+## 💻 **Tech Stack**
+
 
 | 🔤 **Languages** | 🎨 **Frontend** | | 🌐 **Backend & Frameworks** | | 🛢 **Databases** | | ⚙ **Tools & Platforms** |
 |:----------------:|:---------------:|:-:|:--------------------------:|:-:|:----------------:|:-:|:-----------------------:|
@@ -53,10 +52,6 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | | ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker) | | |
 | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | | |
 | | | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger) | | |
-
-
-
-
 
 
 

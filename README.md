@@ -1,32 +1,40 @@
-<h1 style="font-size: 40px; color: #333; font-weight: 600; text-align: center; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
-    Welcome! <span style="color: #E74C3C;">👋</span>
-</h1>
-
 <div align="center">
-    <p style="font-size: 36px; color: #555; margin-top: 20px; font-family: 'Helvetica Neue', sans-serif; font-weight: 500;">
-        Backend Developer
-    </p>
-    <p style="font-size: 28px; color: #777; margin-top: 10px; font-family: 'Helvetica Neue', sans-serif;">
-        Driven by passion for <span style="font-weight: 600; color: #333;">technology</span> and innovation.
-    </p>
+
+# Welcome! 👋
+
+## **Backend Developer**
+
+Driven by passion for **technology** and innovation.
+
 </div>
 
+---
 
+## 🧐 About Me 
 
-
-# 🧐 About Me 
 - 🐍 I'm a Python Backend Developer with hands-on experience in various web development projects.
 - 🤖 I've delved deep into Telegram bot creation and have a passion for data analysis.
 - 🔍 I love solving intricate problems through code and creating solutions that add value for users.
 
+---
+
 ## 💼 Current Work
+
 - 🔧 I'm primarily engrossed in Python projects that aim to automate logistical processes, streamlining operations and enhancing efficiency.
 
+---
+
 ## 🚀 Continuous Learning 
+
 - 📚 I've been diving into Django, FastAPI, and aiogram, intrigued by the vast potential of web 3.0 libraries.
 
+---
+
 ## 🎮 Hobbies 
+
 - 🕹️ Video games, especially in the RPG and strategy genres, are my go-to relaxation tools. "StarCraft2" and "HeartStone" rank high on my list of favorites!
+
+
 
 <h1 style="font-size: 26px; color: #3670A0;">🌟 I'm on a quest to collaborate on projects that utilize my current tech stack. Always eager to learn and grow, I'd treasure feedback and the chance to work in synergy with a team!</h1>
 

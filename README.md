@@ -1,12 +1,9 @@
-<div align="center">
 
-# 🚀 Welcome Aboard! 👋
 
-## **👨‍💻 Backend Developer**
 
-💥 **Fueled by a passion for Technology & Innovation** 💥
 
-</div>
+![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
+
 
 ---
 

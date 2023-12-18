@@ -7,30 +7,24 @@
 
 ---
 
-## 🕵️‍♂️ **About Me**
+🐍 Python Maestro:
+Crafting intricate code for diverse web development escapades.
 
-- 🐍 **Python Aficionado:** Experience in diverse web development projects.
-- 🤖 **Bot Maker:** Expertise in Telegram bot creation and data-driven solutions.
-- 🔍 **Problem Solver:** Committed to crafting code that solves intricate problems and enhances user value.
+🤖 Bot Enchantress:
+Mastering the art of data-driven marvels and orchestrating Telegram bots.
 
----
+🔍 Puzzle Artisan:
+Dedicated to weaving code that untangles complexity, solving problems, and elevating user experiences.
 
-## 🎯 **Current Endeavors**
+🎯 Current Ventures:
+Mastering Python's arcane arts to command automation and optimize logistical realms.
 
-- 🔧 Currently focusing on Python projects aimed to **automate and optimize logistical processes**.
+🌱 Eternal Scholar:
+Embarking on quests with Django, FastAPI, and aiogram, unlocking the secrets of Web 3.0.
 
----
-
-## 🌱 **Never-Ending Learning**
-
-- 📚 Exploring Django, FastAPI, and aiogram to unlock the **untapped potential of Web 3.0**.
-
----
-
-## 🎮 **Play Time**
-
-- 🕹️ Enthusiast of video games, especially in RPG & strategy genres.
-- 🌟 "StarCraft2" & "HeartStone" are my sanctuaries!
+🎮 Gamer's Haven:
+Diving into RPG & strategy realms.
+"StarCraft2" & "HeartStone" - my digital sanctuaries!
 
 ---
 
@@ -56,23 +50,24 @@
 
 
 
-## 📊 **Vital Stats**
+# 📊 **Vital Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=Oscardkyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Oscardkyou&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscardkyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 **Trophies & Recognitions**
-
-![](https://github-profile-trophy.vercel.app/?username=Oscardkyou&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscardkyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oscardkyou&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscardkyou&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 📜 **Inspirational Quote**
+# 🏆 **Trophies & Recognitions**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Oscardkyou&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📜 **Inspirational Quote**
+
+![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 </div>
 

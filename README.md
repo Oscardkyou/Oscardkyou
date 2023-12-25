@@ -7,24 +7,17 @@
 
 ---
 
-🐍 Python Maestro:
-Crafting intricate code for diverse web development escapades.
+🐍 Python: Web development craftsman.
 
-🤖 Bot Enchantress:
-Mastering the art of data-driven marvels and orchestrating Telegram bots.
+🤖 Bot: Data-driven marvels, Telegram bot sorcery.
 
-🔍 Puzzle Artisan:
-Dedicated to weaving code that untangles complexity, solving problems, and elevating user experiences.
+🔍 Puzzle: Code weaving, complexity untangling, user experience elevation.
 
-🎯 Current Ventures:
-Mastering Python's arcane arts to command automation and optimize logistical realms.
+🎯 Current Ventures: Python automation, logistical optimization.
 
-🌱 Eternal Scholar:
-Embarking on quests with Django, FastAPI, and aiogram, unlocking the secrets of Web 3.0.
+🌱 Eternal Scholar: Django, FastAPI, aiogram, Web 3.0 secrets.
 
-🎮 Gamer's Haven:
-Diving into RPG & strategy realms.
-"StarCraft2" & "HeartStone" - my digital sanctuaries!
+🎮 Gamer: RPG, strategy realms. "StarCraft2," "HeartStone" - sanctuaries!
 
 ---
 

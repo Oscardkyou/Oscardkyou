@@ -13,11 +13,11 @@
 
 🔍 Puzzle: Code weaving, complexity untangling, user experience elevation.
 
-🎯 Current Ventures: Python automation, logistical optimization.
+🎯 Automation, logistical optimization.
 
-🌱 Eternal Scholar: Django, FastAPI, aiogram, Web 3.0 secrets.
+🌱 Django, FastAPI, aiogram, Web 3.0 
 
-🎮 Gamer: RPG, strategy realms. "StarCraft2," "HeartStone" - sanctuaries!
+🎮 RPG, strategy realms "StarCraft2" "HeartStone"
 
 ---
 

@@ -29,12 +29,9 @@
 
 
 
-# 💻 **Tech Stack**
-
 | **Languages** | **Frontend** | **Backend & Frameworks** | **Databases** | **Tools & Platforms** |
 |:-------------:|:------------:|:------------------------:|:-------------:|:---------------------:|
 | ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap) | ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-%230170FE?style=for-the-badge&logo=fastapi) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) ![DjangoREST](https://img.shields.io/badge/Django_REST-%23092E20?style=for-the-badge&logo=django&color=ff1709&labelColor=gray) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blue?style=for-the-badge&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-3.36%2B-blue?style=for-the-badge&logo=sqlite) | ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.21%2B-blue?style=for-the-badge&logo=kubernetes) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-2.0%2B-blue?style=for-the-badge&logo=digitalocean) ![Docker](https://img.shields.io/badge/Docker-20%2B-blue?style=for-the-badge&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx) |
-| | | | | |
 
 | **Design & Collaboration** | **DevOps & Integration** | **OS & Environment** |
 |:-------------------------:|:------------------------:|:--------------------:|

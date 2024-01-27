@@ -5,21 +5,14 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
 
 
----
-
-🐍 Python: Web development craftsman.
-
-🤖 Bot: Data-driven marvels, Telegram bot sorcery.
-
-🔍 Puzzle: Code weaving, complexity untangling, user experience elevation.
-
-🎯 Automation, logistical optimization.
-
-🌱 Django, FastAPI, aiogram, Web 3.0 
-
-🎮 RPG, strategy realms "StarCraft2" "HeartStone"
-
----
+### Skills & Interests
+- 🐍 **Python**: Specialized in web development.
+- 🤖 **Bot**: Data-driven approach to creating Telegram bots.
+- 🔍 **Puzzle**: Expertise in code development, simplifying complex problems, and enhancing user experience.
+- 🎯 **Automation**: Focused on logistical optimization.
+- 🌱 **Tech Stack**: Proficient in Django, FastAPI, aiogram, and Web 3.0.
+- 🎮 **Interests**: Passionate about RPG and strategy games like "StarCraft2" and "HeartStone".
+- 🚀 **Go**: Fast and efficient development.
 
 <h1 align="center" style="font-size: 26px; color: #3670A0;">🌠 On a quest for collaboration & growth! 🌠</h1>
 

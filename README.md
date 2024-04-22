@@ -1,8 +1,5 @@
 
-
-
-
-![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
+  ![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
 
 
 ### Skills & Interests
@@ -14,29 +11,116 @@
 - 🎮 **Interests**: RPG and strategy games like "StarCraft2" and "HeartStone".
 - 🚀 **Go**: Fast development.
 
-<h1 align="center" style="font-size: 26px; color: #3670A0;">🌠 On a quest for collaboration & growth! 🌠</h1>
+
+# 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+</table>
+<br><br>
+
+
+</div>
 
 ## 📬 **Reach Out**
 
 - 🚀 [![Telegram](https://img.shields.io/badge/Telegram-%40DK_Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)
-
-
-
-| **Languages** | **Frontend** | **Backend & Frameworks** | **Databases** | **Tools & Platforms** |
-|:-------------:|:------------:|:------------------------:|:-------------:|:---------------------:|
-| ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap) | ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-%230170FE?style=for-the-badge&logo=fastapi) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) ![DjangoREST](https://img.shields.io/badge/Django_REST-%23092E20?style=for-the-badge&logo=django&color=ff1709&labelColor=gray) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blue?style=for-the-badge&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-3.36%2B-blue?style=for-the-badge&logo=sqlite) | ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.21%2B-blue?style=for-the-badge&logo=kubernetes) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-2.0%2B-blue?style=for-the-badge&logo=digitalocean) ![Docker](https://img.shields.io/badge/Docker-20%2B-blue?style=for-the-badge&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx) |
-
-| **Design & Collaboration** | **DevOps & Integration** | **OS & Environment** |
-|:-------------------------:|:------------------------:|:--------------------:|
-| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma) ![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=for-the-badge&logo=Trello) | ![Git](https://img.shields.io/badge/Git-2.30%2B-blue?style=for-the-badge&logo=git) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1.28%2B-blue?style=for-the-badge&logo=docker) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger) | ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-5.10%2B-blue?style=for-the-badge&logo=linux) |
-
-
-
-
-
-
-
-
 
 # 📊 **Vital Stats**
 

@@ -9,7 +9,7 @@
 - 🔍 **Problem Solving**: Expert in developing code, simplifying complex issues, and enhancing user experience.
 - 🎯 **Automation**: Focused on logistical optimization.
 - 🌱 **Tech Stack**: Experienced with Go, Django, and Web 3.0 technologies.
-- 📦 **Blockchain**: Keen interest in Solidity, Web 3.0, and smart contracts.
+- 📦 **Blockchain**: Keen interest in Solidity, smart contracts.
 
 
 # 💻 My favorite tools and technologies

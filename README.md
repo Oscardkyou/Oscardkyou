@@ -3,13 +3,13 @@
 
 
 ### Skills & Interests
-- 🐍 **Python**: backend, web development.
-- 🤖 **Bot**: Telegram bots, Discord bot
-- 🔍 **Puzzle**: Expertise in code development, simplifying complex problems, and enhancing user experience.
-- 🎯 **Automation**: logistical optimization.
-- 🌱 **Tech Stack**: Go lang, Django and Web 3.0.
-- 🎮 **Interests**: RPG and strategy games like "StarCraft2" and "HeartStone".
-- 🚀 **Go**: Fast development.
+
+- 🐍 **Python**: Specialized in backend and web development.
+- 🤖 **Bots**: Proficient in creating Telegram and Discord bots.
+- 🔍 **Problem Solving**: Expert in developing code, simplifying complex issues, and enhancing user experience.
+- 🎯 **Automation**: Focused on logistical optimization.
+- 🌱 **Tech Stack**: Experienced with Go, Django, and Web 3.0 technologies.
+- 📦 **Blockchain**: Keen interest in Solidity, Web 3.0, and smart contracts.
 
 
 # 💻 My favorite tools and technologies

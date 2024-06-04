@@ -2,14 +2,14 @@
   ![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
 
 
-### Skills & Interests
+Skills & Interests
 
-- 🐍 **Python**: Specialized in backend and web development.
-- 🤖 **Bots**: Proficient in creating Telegram and Discord bots.
-- 🔍 **Problem Solving**: Expert in developing code, simplifying complex issues, and enhancing user experience.
-- 🎯 **Automation**: Focused on logistical optimization.
-- 🌱 **Tech Stack**: Experienced with Go, Django, and Web 3.0 technologies.
-- 📦 **Blockchain**: Keen interest in Solidity, smart contracts.
+    🐍 Python: Backend and web development.
+    🤖 Bots: Telegram and Discord bot creation.
+    🔍 Problem Solving: Code development, simplifying complex issues, enhancing user experience.
+    🎯 Logistical Optimization: Focused on automation.
+    🌱 Tech Stack: Python, Django, Web 3.0 technologies.
+    📦 Blockchain: Interested in Solidity, smart contracts.
 
 
 # 💻 My favorite tools and technologies

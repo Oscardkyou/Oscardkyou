@@ -4,12 +4,12 @@
 
 Skills & Interests
 
-    🐍 Python: Backend and web development.
-    🤖 Bots: Telegram and Discord bot creation.
-    🔍 Problem Solving: Code development, simplifying complex issues, enhancing user experience.
-    🎯 Logistical Optimization: Focused on automation.
-    🌱 Tech Stack: Python, Django, Web 3.0 technologies.
-    📦 Blockchain: Interested in Solidity, smart contracts.
+  * 🐍 Python: Backend and web development.
+  * 🤖 Bots: Telegram and Discord bot creation.
+  * 🔍 Problem Solving: Code development, simplifying complex issues, enhancing user experience.
+  * 🎯 Logistical Optimization: Focused on automation.
+  * 🌱 Tech Stack: Python, Django, Web 3.0 technologies.
+  * 📦 Blockchain: Interested in Solidity, smart contracts.
 
 
 # 💻 My favorite tools and technologies

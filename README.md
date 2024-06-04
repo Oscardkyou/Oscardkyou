@@ -55,7 +55,7 @@
         <br>HTML5
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
         <br>CSS
       </td>
     </tr>
@@ -63,11 +63,11 @@
   <table>
     <tr>
       <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
@@ -91,7 +91,7 @@
         <br>Sass
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
         <br>GraphQL
       </td>
       <td align="center" width="96">
@@ -100,7 +100,28 @@
       </td>
     </tr>
   </table>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://res.cloudinary.com/cloudinary/image/upload/v1585079526/cloudinary_icon.png" width="48" height="48" alt="Cloudinary" />
+        <br>Cloudinary
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/redis.png" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/celery.png" width="48" height="48" alt="Celery" />
+        <br>Celery
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 

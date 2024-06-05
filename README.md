@@ -98,14 +98,14 @@ Skills & Interests
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
       <td align="center" width="96">
         <img src="https://res.cloudinary.com/cloudinary/image/upload/v1585079526/cloudinary_icon.png" width="48" height="48" alt="Cloudinary" />
         <br>Cloudinary
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/redis.png" width="48" height="48" alt="Redis" />
         <br>Redis
@@ -118,11 +118,37 @@ Skills & Interests
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <br>GitLab
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+        <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+        <br>Heroku
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
     </tr>
   </table>
 </div>
-
-
 
 
 ## 📬 **Reach Out**

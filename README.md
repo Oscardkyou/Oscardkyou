@@ -1,7 +1,10 @@
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B4371,100:F3904F&height=200&section=header&text=Oscar%20DK&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🚀+Welcome+Aboard!+👋;👨‍💻+Backend+Developer;💥+Fueled+by+a+passion+for+Technology+&+Innovation+💥)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3904F&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+Web3+Enthusiast;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-
+</div>
 Skills & Interests
 
   * 🐍 Python: Backend and web development.

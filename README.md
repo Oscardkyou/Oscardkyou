@@ -1,22 +1,24 @@
 <div align="center">
 
   <!-- Header: Waving Capsule -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B4371,100:F3904F&height=200&section=header&text=Oscar%20DK&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B4371,100:F3904F&height=200&section=header&text=Dauren&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-  <!-- Typing SVG (slightly reduced lines for brevity) -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3904F&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+Web3+Enthusiast)](https://git.io/typing-svg)
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3904F&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI+%7C+Web3+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 👋 Introduction
-Hi there! I'm **Dauren**, a **Backend Developer** focused on **Python**, **Django**, and exploring the possibilities of **Web3**.  
+Hi there! I'm **Dauren**, a **Backend Developer** dedicated to **Python**, **Django**, **FastAPI**, and **Flask**, while also exploring **Web3** possibilities.  
 I thrive on building **scalable solutions** that tackle real-world challenges, and I'm always eager to learn the latest **tools** and **technologies**.  
-My strengths include:
-- Developing **robust backends**,  
-- Implementing **CI/CD pipelines** with Docker and Kubernetes,  
-- Ensuring **smooth deployments** in cloud environments (AWS, etc.).  
+
+### What I bring:
+- **Robust Backend Architectures**: Creating efficient APIs and microservices using Django, FastAPI, and Flask  
+- **DevOps Mindset**: Implementing CI/CD pipelines with Docker, Kubernetes, GitLab CI  
+- **Cloud Deployments**: Ensuring smooth releases on AWS (and other cloud providers)  
+- **Web3 Enthusiasm**: Experimenting with Solidity and smart contracts  
 
 If you're up for collaboration or have an interesting project, **feel free to reach out**!
 
@@ -24,12 +26,12 @@ If you're up for collaboration or have an interesting project, **feel free to re
 
 ## ⚙️ Skills & Interests
 
-- **Backend**: Python, Django, REST APIs  
+- **Backend**: Python, Django, FastAPI, Flask, REST APIs  
 - **DevOps & Infra**: Docker, Kubernetes, GitLab CI, AWS, Linux  
 - **Web3**: Basic Solidity, Smart Contracts  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
 - **Frontend**: React, HTML/CSS, Tailwind, Bootstrap  
-- **Tools**: Git & GitHub, VSCode, Nginx, Figma
+- **Tools & Workflow**: Git & GitHub, VSCode, Nginx, Figma, CI/CD Pipelines  
 
 ---
 

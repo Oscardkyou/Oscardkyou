@@ -42,10 +42,10 @@ dauren = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 **[productshotBot](https://github.com/Oscardkyou)** | AI image generation & processing service integrated with OpenAI API | FastAPI · OpenAI API · AWS Lambda · Docker |
-| 📦 **[logistics-ml-api](https://github.com/Oscardkyou)** | ML prediction service for freight logistics — cost & route optimization | FastAPI · scikit-learn · PostgreSQL · Docker |
-| 👁 **[CV_demo](https://github.com/Oscardkyou)** | Computer vision inference API — object detection & image analysis | FastAPI · OpenCV · AWS Lambda · boto3 |
-| 🏠 **[LocalHood](https://github.com/Oscardkyou)** | Residential complex management app backend with real-time notifications | Django · DRF · WebSockets · Redis · Celery · Firebase |
+| 🤖 **[productshotBot](https://github.com/Oscardkyou/productshotBot)** | AI image generation & processing service integrated with OpenAI API | FastAPI · OpenAI API · AWS Lambda · Docker |
+| 📦 **[logistics-ml-api](https://github.com/Oscardkyou/logistics-ml-api)** | ML prediction service for freight logistics — cost & route optimization | FastAPI · scikit-learn · PostgreSQL · Docker |
+| 👁 **[CV_demo](https://github.com/Oscardkyou/CV_demo)** | Computer vision inference API — object detection & image analysis | FastAPI · OpenCV · AWS Lambda · boto3 |
+| 🏠 **[LocalHood](https://github.com/Oscardkyou/LocalHood)** | Residential complex management app backend with real-time notifications | Django · DRF · WebSockets · Redis · Celery · Firebase |
 | 🔮 **[AI Tarot Bot](https://github.com/Oscardkyou)** | Telegram bot with LangChain agents and GPT-powered interpretations | LangChain · Telegram Bot API · OpenAI · asyncio |
 | 🔗 **[AmoCRM Integration](https://github.com/Oscardkyou)** | Real-time CRM event triggers and notification automation via API | FastAPI · AWS Lambda · API Gateway · DynamoDB |
 
@@ -70,23 +70,36 @@ dauren = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/000000/celery.png" width="48" height="48" alt="Celery" /><br>Celery</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" /><br>Playwright</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
+  </tr>
 </table>
 
-<details>
-  <summary>🤖 AI / LLM Stack</summary>
+**🤖 AI / LLM Stack**
 
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-  ![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=flat-square&logoColor=white)
-  ![Qdrant](https://img.shields.io/badge/Qdrant-FF4A6E?style=flat-square&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG_Systems-0066CC?style=flat-square)
-  ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square)
-  ![Dify](https://img.shields.io/badge/Dify-6366F1?style=flat-square)
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square)
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
-  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-</details>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/126733545" width="48" height="48" alt="LangChain" /><br>LangChain</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/14957082" width="48" height="48" alt="OpenAI" /><br>OpenAI API</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/73504361" width="48" height="48" alt="Qdrant" /><br>Qdrant</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/76263028" width="48" height="48" alt="Anthropic" /><br>Anthropic</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/13157900" width="48" height="48" alt="Scrapy" /><br>Scrapy</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" /><br>Playwright</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" height="48" alt="RAG" /><br>RAG Systems</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/110818415" width="48" height="48" alt="Pydantic" /><br>Pydantic AI</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/127165244" width="48" height="48" alt="Dify" /><br>Dify</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/chat--v1.png" width="48" height="48" alt="Prompt" /><br>Prompt Eng.</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48" alt="BeautifulSoup" /><br>BeautifulSoup</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/parse-from-clipboard.png" width="48" height="48" alt="Scrapy" /><br>Data Parsing</td>
+  </tr>
+</table>
 
 ---
 
@@ -104,6 +117,7 @@ dauren = {
 ---
 
 ## 📬 Connect With Me
+
 [![Telegram](https://img.shields.io/badge/Telegram-%40DK__Oscar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DK_Oscar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dauren%20Askarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)

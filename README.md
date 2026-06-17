@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Python Backend Engineer with **3+ years** of commercial experience building **production-ready AI services**, FastAPI microservices, and AWS serverless architectures.
+Python Backend Engineer with commercial experience building **production-ready AI services**, FastAPI microservices, and AWS serverless architectures.
 
 Focused on **LLM/RAG systems**, vector databases, and end-to-end AI component ownership — from pipeline prototyping to stable, scalable microservices in production.
 

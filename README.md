@@ -39,17 +39,13 @@ dauren = {
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🤖 **[productshotBot](https://github.com/Oscardkyou/productshotBot)** | AI image generation & processing service integrated with OpenAI API | FastAPI · OpenAI API · AWS Lambda · Docker |
 | 📦 **[logistics-ml-api](https://github.com/Oscardkyou/logistics-ml-api)** | ML prediction service for freight logistics — cost & route optimization | FastAPI · scikit-learn · PostgreSQL · Docker |
 | 👁 **[CV_demo](https://github.com/Oscardkyou/CV_demo)** | Computer vision inference API — object detection & image analysis | FastAPI · OpenCV · AWS Lambda · boto3 |
-| 🏠 **[LocalHood](https://github.com/Oscardkyou/LocalHood)** | Residential complex management app backend with real-time notifications | Django · DRF · WebSockets · Redis · Celery · Firebase |
-| 🔮 **[AI Tarot Bot](https://github.com/Oscardkyou)** | Telegram bot with LangChain agents and GPT-powered interpretations | LangChain · Telegram Bot API · OpenAI · asyncio |
-| 🔗 **[AmoCRM Integration](https://github.com/Oscardkyou)** | Real-time CRM event triggers and notification automation via API | FastAPI · AWS Lambda · API Gateway · DynamoDB |
-
----
+| 🏠 **[LocalHood](https://localhood.kz/kk)** | Residential complex management app backend with real-time notifications | Django · DRF · WebSockets · Redis · Celery · Firebase |
+| 🏢 **[ByteGenix](https://bytegs.com/)** | Software development agency — AI integrations, backend & automation services | FastAPI · AWS · LLM · Docker |
 
 ## 🛠️ Tech Stack
 
